@@ -1,3 +1,13 @@
+# React Pomodoro clock
+
+- React Hooks
+- React Helmet
+- React Google Font Loader
+- React Font Awesome 5
+- React SASS
+
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
